@@ -176,8 +176,10 @@ PolicyReasoner/
     ├── policy_analyzer.py   ← Conflict detection + analysis node
     └── policy_converter.py  ← Policy → code node
 ```
-##video link
-https://youtu.be/jXh4IEm9z-I
+## Demo Video
+
+[![PolicyReasoner Demo](https://img.youtube.com/vi/jXh4IEm9z-I/maxresdefault.jpg)](https://youtu.be/jXh4IEm9z-I)
+
 ---
 
 ## Author
