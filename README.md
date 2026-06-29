@@ -179,12 +179,6 @@ PolicyReasoner/
 
 ---
 
-## Adapted From
-
-DeepGit ([github.com/rayan1242/DeepGit2](https://github.com/rayan1242/DeepGit2)) — the retrieval architecture (hybrid FAISS + BM25, cross-encoder re-ranking, LangGraph node pattern) was adapted from this parent project and re-applied to healthcare policy search.
-
----
-
 ## Author
 
 **Rayyan Maindargi**  

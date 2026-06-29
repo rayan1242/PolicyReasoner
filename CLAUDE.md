@@ -14,16 +14,11 @@ PolicyReasoner is a LangGraph-based agentic pipeline that:
 5. Summarizes the results in plain English
 6. Converts a selected policy into executable code (JSON rules, Python, or ML features)
 
-## Source: DeepGit (what was reused)
-The DeepGit project (github.com/rayan1242/DeepGit2) is the parent codebase.
-PolicyReasoner adapts the following components:
+## Components
 - `tools/chat.py` → LLM wrapper using Groq (llama-3.1-8b-instant)
-- `tools/dense_retrieval.py` → ColBERT + BM25 hybrid FAISS retrieval
+- `tools/dense_retrieval.py` → BM25 + dense FAISS hybrid retrieval
 - `tools/cross_encoder_reranking.py` → MiniLM cross-encoder re-ranking
-- `agent.py` → LangGraph StateGraph pattern
-- `requirements.txt` → same base dependencies
-
-New components added for PolicyReasoner:
+- `agent.py` → LangGraph StateGraph pipeline
 - `data/policies.json` → 40 mock healthcare policy documents
 - `tools/policy_ingestor.py` → loads, chunks, embeds policies into FAISS
 - `tools/policy_analyzer.py` → LLM conflict detection + analysis
@@ -95,7 +90,7 @@ PolicyReasoner/
 │   └── policies.json       ← 40 mock healthcare policies
 ├── tools/
 │   ├── __init__.py
-│   ├── chat.py             ← Groq LLM wrapper (adapted from DeepGit)
+│   ├── chat.py             ← Groq LLM wrapper
 │   ├── policy_ingestor.py  ← load + embed policies into FAISS
 │   ├── dense_retrieval.py  ← ColBERT+BM25 hybrid retrieval
 │   ├── cross_encoder_reranking.py ← MiniLM re-ranking

@@ -382,7 +382,7 @@ with gr.Blocks(
 
     gr.HTML("""
     <div style="text-align:center;margin-top:32px;font-size:12px;color:#aaa">
-      Built on DeepGit's retrieval architecture · Powered by Groq + LangGraph
+      Powered by Groq + LangGraph · Built for Cotiviti Intern Assessment
     </div>""")
 
     outputs = [status_md, summary_html, policies_html, grounding_html,
