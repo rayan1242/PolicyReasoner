@@ -1,0 +1,904 @@
+[
+  {
+    "policy_id": "POL-ER-001",
+    "name": "Emergency Room Visit Coverage",
+    "category": "emergency",
+    "version": "2.3",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Eligibility",
+        "content": "All enrolled members are eligible for emergency room coverage. Coverage applies 24 hours a day, 7 days a week, including holidays. Members must present their insurance card at the time of service."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Emergency room copay is $350 per visit. Annual deductible of $1,500 applies before copay. After meeting the deductible, the plan pays 80% and the member pays 20% coinsurance. Out-of-pocket maximum is $6,000 per individual per year."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "Preauthorization is NOT required for true emergency room visits. A true emergency is defined as a sudden, serious medical condition that requires immediate treatment to prevent death or serious harm."
+      },
+      {
+        "title": "Out-of-Network",
+        "content": "Emergency room services are covered at in-network rates regardless of whether the facility is in-network, as required by the No Surprises Act. Balance billing protections apply."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-ER-002",
+    "name": "Emergency Ambulance Transport Coverage",
+    "category": "emergency",
+    "version": "1.8",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Eligibility",
+        "content": "Ambulance transport is covered when medically necessary and when transport by other means would endanger the member's health."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Ground ambulance: $250 copay per transport. Air ambulance: $500 copay per transport. Deductible of $1,500 applies. After deductible, plan covers 80%."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "Preauthorization is not required for emergency ambulance transport. Non-emergency ambulance transport requires prior authorization from the plan."
+      },
+      {
+        "title": "Exclusions",
+        "content": "Non-emergency transport for convenience, transport to a facility beyond the nearest appropriate facility, and air transport when ground transport is medically appropriate are not covered."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-ER-003",
+    "name": "Urgent Care Center Coverage",
+    "category": "emergency",
+    "version": "3.1",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Eligibility",
+        "content": "All enrolled members may use in-network urgent care centers for conditions that require prompt attention but are not life-threatening emergencies."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "In-network urgent care copay is $75 per visit. Deductible does not apply to urgent care copay. Out-of-network urgent care is subject to deductible and 40% coinsurance."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "No preauthorization required for urgent care visits. Members should use urgent care rather than emergency rooms for non-emergency conditions to minimize costs."
+      },
+      {
+        "title": "Scope of Services",
+        "content": "Urgent care covers minor fractures, lacerations, infections, flu, strep throat, minor burns, and similar conditions. Chest pain, stroke symptoms, and severe difficulty breathing require emergency room care."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-ER-004",
+    "name": "Observation Stay vs Inpatient Admission",
+    "category": "emergency",
+    "version": "1.2",
+    "effective_date": "2024-03-01",
+    "sections": [
+      {
+        "title": "Definitions",
+        "content": "Observation status is an outpatient service where a patient is monitored while a physician determines whether inpatient admission is warranted. Inpatient admission requires a physician order and medical necessity determination."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Observation stays are billed as outpatient services: $350 ER copay plus applicable outpatient facility fees. Inpatient admission: $500 per-admission copay, then plan pays 90% after deductible."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "Inpatient admission from the emergency room requires notification within 24 hours of admission. Observation stays do not require preauthorization."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-SURG-001",
+    "name": "Elective Surgical Procedures",
+    "category": "surgical",
+    "version": "4.0",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Eligibility",
+        "content": "Elective surgeries are covered when medically necessary and performed by an in-network surgeon at an in-network facility. Member must be continuously enrolled for 90 days prior to the procedure."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Inpatient surgical facility fee: $500 per admission copay. Surgeon fee: plan pays 80% after deductible. Anesthesia: plan pays 80% after deductible. Annual deductible $1,500 applies."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "All elective surgeries require preauthorization at least 5 business days before the scheduled procedure. Failure to obtain preauthorization may result in denial of coverage."
+      },
+      {
+        "title": "Second Opinion",
+        "content": "Members are encouraged to seek a second surgical opinion at no additional cost. Plan covers second opinion consultations at the specialist copay rate of $50."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-SURG-002",
+    "name": "Emergency Surgical Procedures",
+    "category": "surgical",
+    "version": "2.1",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Eligibility",
+        "content": "Emergency surgery is covered when immediate surgical intervention is necessary to prevent death, serious disability, or significant deterioration of health."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Emergency surgery copay is $500 per admission. Plan pays 80% of covered services after deductible. No separate surgeon or anesthesia copay for emergency procedures."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "Preauthorization is NOT required for emergency surgical procedures. Plan must be notified within 48 hours of emergency surgery or as soon as reasonably possible."
+      },
+      {
+        "title": "Post-Surgical Care",
+        "content": "Follow-up visits within 90 days of surgery are covered at the primary care copay rate of $25. Physical therapy ordered by the surgeon is covered under the physical therapy benefit."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-SURG-003",
+    "name": "Bariatric Surgery Coverage",
+    "category": "surgical",
+    "version": "1.5",
+    "effective_date": "2024-06-01",
+    "sections": [
+      {
+        "title": "Eligibility",
+        "content": "Bariatric surgery is covered for members with BMI >= 40, or BMI >= 35 with one or more obesity-related comorbidities (Type 2 diabetes, hypertension, sleep apnea). Member must have documented failure of supervised weight loss program for minimum 6 months."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Bariatric surgery: $500 inpatient copay plus 20% coinsurance after deductible. Nutritional counseling: covered at preventive care rate. Pre-surgical psychological evaluation: $50 specialist copay."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "Preauthorization is required. Submission must include BMI documentation, comorbidity records, 6-month weight loss program records, nutritional assessment, and psychological evaluation."
+      },
+      {
+        "title": "Exclusions",
+        "content": "Purely cosmetic surgical procedures resulting from weight loss (e.g., panniculectomy) are not covered unless medically necessary. Revision surgeries require separate preauthorization."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-SURG-004",
+    "name": "Outpatient Surgical Procedures",
+    "category": "surgical",
+    "version": "3.2",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Eligibility",
+        "content": "Outpatient surgery is covered when the procedure can be safely performed without overnight hospitalization and is medically necessary."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Outpatient ambulatory surgery center: $200 facility copay. Hospital outpatient department: $250 facility copay. Surgeon fee covered at 80% after deductible. No separate anesthesia copay."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "Outpatient surgeries require preauthorization 3 business days in advance. Preauthorization may be waived for minor procedures under $500 total cost."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-MH-001",
+    "name": "Outpatient Mental Health Therapy",
+    "category": "mental_health",
+    "version": "5.0",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Eligibility",
+        "content": "All enrolled members are eligible for outpatient mental health services. Coverage is parity-compliant under the Mental Health Parity and Addiction Equity Act (MHPAEA)."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Individual therapy: $25 copay per session (same as primary care). Group therapy: $15 copay per session. Psychological testing: $50 copay. No visit limits apply."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "First 8 outpatient therapy sessions per calendar year do not require preauthorization. Sessions 9 and beyond require preauthorization demonstrating ongoing medical necessity."
+      },
+      {
+        "title": "Providers",
+        "content": "Covered providers include licensed psychologists, licensed clinical social workers (LCSW), licensed professional counselors (LPC), licensed marriage and family therapists (LMFT), and psychiatrists."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-MH-002",
+    "name": "Inpatient Psychiatric Hospitalization",
+    "category": "mental_health",
+    "version": "2.7",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Eligibility",
+        "content": "Inpatient psychiatric care is covered when the member presents a danger to self or others, or when intensive monitoring and stabilization is required that cannot be achieved in outpatient settings."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Inpatient psychiatric: $500 per admission copay, then plan pays 80% after deductible. Partial hospitalization program (PHP): $75 per day copay. Intensive outpatient program (IOP): $25 per day copay."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "Preauthorization required for planned inpatient psychiatric admission. Emergency involuntary holds (5150) do not require preauthorization; plan must be notified within 24 hours."
+      },
+      {
+        "title": "Length of Stay",
+        "content": "Initial authorization for 7 days. Continued stay reviews every 7 days thereafter. Discharge planning begins on day 3 of admission. Step-down to PHP or IOP required when clinically appropriate."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-MH-003",
+    "name": "Substance Use Disorder Treatment",
+    "category": "mental_health",
+    "version": "3.3",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Eligibility",
+        "content": "Substance use disorder (SUD) treatment is covered at parity with medical benefits per MHPAEA. Coverage includes alcohol, opioid, and other substance use disorders."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Outpatient SUD counseling: $25 copay per session. Intensive outpatient SUD: $25 per day. Residential SUD treatment: $500 per admission, then 80% after deductible. Medication-assisted treatment (MAT): covered under pharmacy benefit."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "Residential SUD treatment requires preauthorization. Outpatient SUD counseling does not require preauthorization for first 12 sessions. MAT medications require step therapy: buprenorphine preferred over methadone unless clinically justified."
+      },
+      {
+        "title": "Coverage Limits",
+        "content": "No annual or lifetime limits on SUD treatment benefits. Residential treatment covered up to 30 days per episode of care; additional days require continued stay review."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-MH-004",
+    "name": "Telehealth Mental Health Services",
+    "category": "mental_health",
+    "version": "2.0",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Eligibility",
+        "content": "Telehealth mental health services are covered for all enrolled members. Video visits are covered equivalent to in-person visits. Audio-only telehealth is covered when video is not available to the member."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Telehealth mental health: $25 copay per session (same as in-person). No additional facility fee for telehealth. Deductible does not apply to telehealth mental health visits."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "No preauthorization required for telehealth mental health sessions 1-8 per year. Same preauthorization rules apply for sessions 9+ as in-person care."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-RX-001",
+    "name": "Prescription Drug Formulary Coverage",
+    "category": "prescription",
+    "version": "6.1",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Formulary Tiers",
+        "content": "Tier 1 (Generic): $10 copay per 30-day supply. Tier 2 (Preferred Brand): $40 copay per 30-day supply. Tier 3 (Non-Preferred Brand): $80 copay per 30-day supply. Tier 4 (Specialty): 20% coinsurance, max $200 per fill."
+      },
+      {
+        "title": "Mail Order",
+        "content": "Mail order pharmacy provides 90-day supply for cost of 2 copays (Tier 1: $20, Tier 2: $80, Tier 3: $160). Mail order required for maintenance medications after 2 retail fills."
+      },
+      {
+        "title": "Step Therapy",
+        "content": "Non-preferred brand drugs require step therapy: member must try and fail a Tier 1 or Tier 2 drug before Tier 3 is covered. Step therapy exceptions available with physician documentation of medical necessity."
+      },
+      {
+        "title": "Specialty Drugs",
+        "content": "Specialty drugs must be dispensed through designated specialty pharmacy. Prior authorization required for all specialty drugs. Copay assistance programs apply automatically when available."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-RX-002",
+    "name": "Prior Authorization for Medications",
+    "category": "prescription",
+    "version": "3.4",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "PA Requirements",
+        "content": "Prior authorization (PA) is required for specialty drugs, certain brand-name drugs, drugs used off-label, drugs with high abuse potential, and drugs requiring clinical monitoring."
+      },
+      {
+        "title": "Approval Process",
+        "content": "PA requests reviewed within 72 hours for standard requests. Urgent PA requests reviewed within 24 hours. Emergency supply of 72-hour supply may be dispensed at retail pharmacy pending PA determination."
+      },
+      {
+        "title": "Appeals",
+        "content": "PA denials may be appealed within 180 days. First-level appeal reviewed within 30 days (7 days for urgent). Expedited appeal available when member's health is at risk."
+      },
+      {
+        "title": "Auto-renewal",
+        "content": "Approved PAs are valid for 12 months unless otherwise specified. PA auto-renewal submitted 60 days before expiration for ongoing treatments."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-RX-003",
+    "name": "Opioid Prescribing and Coverage Policy",
+    "category": "prescription",
+    "version": "2.2",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Initial Prescriptions",
+        "content": "Initial opioid prescriptions for acute pain limited to 7-day supply. Initial prescriptions for chronic pain or cancer pain: 30-day supply covered without PA."
+      },
+      {
+        "title": "Quantity Limits",
+        "content": "Opioid quantity limits align with CDC guidelines: 50 morphine milligram equivalents (MME) per day without PA. Doses above 90 MME per day require PA with documentation of failure of lower-dose regimen."
+      },
+      {
+        "title": "Monitoring Requirements",
+        "content": "Members receiving long-term opioid therapy (>90 days) must have urine drug screen every 6 months and pain management agreement on file. Non-compliance may result in coverage suspension."
+      },
+      {
+        "title": "Naloxone Co-Prescribing",
+        "content": "Naloxone co-prescription covered at $0 copay for members receiving opioid prescriptions exceeding 50 MME per day or when risk factors for overdose are present."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-RX-004",
+    "name": "Insulin Coverage and Affordability",
+    "category": "prescription",
+    "version": "1.1",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Insulin Copay Cap",
+        "content": "Insulin copay capped at $35 per 30-day supply regardless of formulary tier. Cap applies to all insulin types: rapid-acting, long-acting, and combination insulins. Deductible does not apply to insulin."
+      },
+      {
+        "title": "Coverage",
+        "content": "All FDA-approved insulins covered on formulary. Preferred insulins (Tier 1): insulin glargine (generic), NPH insulin. Non-preferred insulins available without step therapy for members with documented history."
+      },
+      {
+        "title": "Supplies",
+        "content": "Diabetes supplies (syringes, pen needles, lancets, test strips) covered under durable medical equipment benefit. Continuous glucose monitors (CGM) covered at $50 copay for eligible diabetic members."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-PREV-001",
+    "name": "Preventive Care Services",
+    "category": "preventive",
+    "version": "4.5",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Coverage",
+        "content": "Preventive care services recommended by the U.S. Preventive Services Task Force (USPSTF) with an A or B rating are covered at $0 cost-sharing when performed by an in-network provider."
+      },
+      {
+        "title": "Annual Wellness Visit",
+        "content": "Annual wellness visit: $0 copay for adults 18+. Includes health risk assessment, vitals, BMI, blood pressure, cholesterol screening, cancer screenings, immunizations review."
+      },
+      {
+        "title": "Cancer Screenings",
+        "content": "Mammogram: $0 copay annually starting age 40. Colonoscopy: $0 copay every 10 years starting age 45. Cervical cancer screening (Pap + HPV): $0 copay every 3-5 years starting age 21. Lung CT scan: $0 copay annually for high-risk smokers age 50-80."
+      },
+      {
+        "title": "Immunizations",
+        "content": "All ACIP-recommended vaccines are covered at $0 cost-sharing at in-network pharmacies and physician offices. Includes flu, COVID-19, pneumonia, shingles, HPV, Tdap, and RSV vaccines."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-PREV-002",
+    "name": "Well-Child and Pediatric Preventive Care",
+    "category": "preventive",
+    "version": "3.0",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Coverage",
+        "content": "Well-child visits per AAP Bright Futures schedule: $0 copay for all recommended visits from birth through age 21. Coverage includes 14 visits from birth to age 3, then annually from age 4-21."
+      },
+      {
+        "title": "Screenings",
+        "content": "Vision, hearing, developmental, autism (M-CHAT at 18/24 months), lead, anemia, and lipid screenings covered at $0 when part of well-child visit. Separate office visit for treatment of identified conditions billed at regular copay."
+      },
+      {
+        "title": "Oral Health",
+        "content": "Fluoride varnish application: $0 copay at primary care visit for children 6 months to 5 years. Dental referral at 12 months. Separate dental benefit applies for dental cleanings and treatment."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-PREV-003",
+    "name": "Chronic Disease Prevention Programs",
+    "category": "preventive",
+    "version": "2.1",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Diabetes Prevention Program",
+        "content": "CDC-recognized Diabetes Prevention Program (DPP) covered at $0 for members with prediabetes (A1C 5.7-6.4% or fasting glucose 100-125 mg/dL). Program provides 16 core sessions over 6 months plus 6 post-core sessions."
+      },
+      {
+        "title": "Weight Management",
+        "content": "Intensive behavioral counseling for obesity: $0 copay, up to 26 sessions per year for members with BMI >= 30. Telehealth weight management programs covered equivalent to in-person."
+      },
+      {
+        "title": "Smoking Cessation",
+        "content": "Tobacco cessation counseling: $0 copay, up to 8 sessions per year. FDA-approved cessation medications (nicotine patches, gum, bupropion, varenicline) covered at $0 with prescription, regardless of formulary tier."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-REF-001",
+    "name": "Specialist Referral Policy",
+    "category": "referral",
+    "version": "3.7",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Referral Requirements",
+        "content": "HMO plan members require a referral from their primary care physician (PCP) to see an in-network specialist. PPO plan members do not require a referral for in-network specialists. Out-of-network specialist visits require referral and preauthorization for all plan types."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "In-network specialist visit: $50 copay. Out-of-network specialist: 40% coinsurance after deductible. Specialist visits for ongoing chronic conditions: $50 copay per visit, preauthorization required after 12 visits per year."
+      },
+      {
+        "title": "Standing Referrals",
+        "content": "Members with chronic conditions requiring ongoing specialist care may request a standing referral valid for 12 months and up to 12 visits. Standing referral requests submitted by PCP with documentation of ongoing need."
+      },
+      {
+        "title": "Direct Access Specialties",
+        "content": "Members may self-refer (no PCP referral needed) to OB/GYN, dermatology, mental health providers, and optometrists for routine care. Emergency specialist care does not require referral."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-REF-002",
+    "name": "Out-of-Network Referral Authorization",
+    "category": "referral",
+    "version": "2.0",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "When Authorized",
+        "content": "Out-of-network referral authorized when: (1) no in-network provider with appropriate specialty within 30 miles, (2) in-network provider has wait time exceeding 30 days for urgent condition, (3) continuity of care with existing provider during transition period."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Authorized out-of-network referral: billed at in-network rates. Member pays in-network specialist copay of $50. Unauthorized out-of-network care: 40% coinsurance after separate out-of-network deductible of $3,000."
+      },
+      {
+        "title": "Continuity of Care",
+        "content": "New enrollees may continue care with out-of-network providers for up to 90 days at in-network rates during care transition. Members with ongoing treatment for serious conditions: 12-month continuity of care period."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-LAB-001",
+    "name": "Laboratory and Diagnostic Testing",
+    "category": "lab",
+    "version": "4.2",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Coverage",
+        "content": "Laboratory tests ordered by an in-network provider are covered when medically necessary. Routine lab tests (CBC, CMP, lipid panel, thyroid) covered at $0 copay when part of annual wellness visit. Diagnostic lab tests: $25 copay."
+      },
+      {
+        "title": "Facility Requirements",
+        "content": "Lab tests must be performed at in-network laboratories (Quest Diagnostics, LabCorp, and contracted hospital labs). Out-of-network lab testing is covered only when no in-network lab is available within 15 miles."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "Genetic testing requires preauthorization. Advanced imaging labs (MRI, CT, PET) require preauthorization. Routine diagnostic labs and standard imaging (X-ray, ultrasound) do not require preauthorization."
+      },
+      {
+        "title": "Frequency Limits",
+        "content": "Repeat testing within 90 days for same diagnosis requires clinical justification. Annual preventive screenings covered per USPSTF guidelines without frequency limits."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-LAB-002",
+    "name": "Advanced Imaging (MRI/CT/PET) Coverage",
+    "category": "lab",
+    "version": "3.1",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Coverage",
+        "content": "MRI, CT, and PET scans are covered when medically necessary and ordered by an in-network provider. Non-contrast CT: $100 copay. Contrast CT: $150 copay. MRI: $150 copay. PET scan: $200 copay."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "All MRI, CT, and PET scans require preauthorization regardless of indication. Preauthorization must be obtained before scheduling. Emergency imaging does not require prior authorization; plan must be notified within 24 hours."
+      },
+      {
+        "title": "Preferred Facilities",
+        "content": "Advanced imaging at preferred radiology centers billed at lower cost. Hospital-based imaging copay is $50 higher than freestanding imaging center copay. Teleradiology for reads is covered when ordered by treating physician."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-LAB-003",
+    "name": "Genetic and Genomic Testing",
+    "category": "lab",
+    "version": "1.4",
+    "effective_date": "2024-06-01",
+    "sections": [
+      {
+        "title": "Coverage",
+        "content": "Genetic testing is covered for hereditary cancer syndromes (BRCA1/2, Lynch syndrome), pharmacogenomics relevant to prescribed medications, prenatal screening, and rare disease diagnosis when clinically indicated."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "All genetic and genomic testing requires preauthorization. Request must include clinical indication, family history, prior test results, and ordering physician attestation that results will change clinical management."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Approved genetic testing: $100 copay per test panel. Direct-to-consumer genetic testing is not covered. Genetic counseling: $50 specialist copay; covered pre- and post-testing."
+      },
+      {
+        "title": "Exclusions",
+        "content": "Whole genome sequencing for wellness purposes, ancestry testing, and predictive testing without confirmed family history or clinical indication are not covered."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-PT-001",
+    "name": "Physical Therapy Coverage",
+    "category": "therapy",
+    "version": "3.8",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Eligibility",
+        "content": "Physical therapy is covered when prescribed by a physician and medically necessary for treatment of injury, illness, or post-surgical rehabilitation. Must be performed by a licensed physical therapist."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Physical therapy: $30 copay per visit. Occupational therapy: $30 copay per visit. Speech therapy: $30 copay per visit. Deductible does not apply to therapy copays."
+      },
+      {
+        "title": "Visit Limits and Authorization",
+        "content": "First 12 visits per calendar year covered without preauthorization. Visits 13-30 require preauthorization with documented functional progress. More than 30 visits require specialist-level review and evidence of continued functional gains."
+      },
+      {
+        "title": "Telehealth PT",
+        "content": "Telehealth physical therapy covered at $30 copay for appropriate conditions. In-person required for: initial evaluation, manual therapy techniques, and modalities requiring direct contact."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-PT-002",
+    "name": "Cardiac Rehabilitation Coverage",
+    "category": "therapy",
+    "version": "2.0",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Eligibility",
+        "content": "Cardiac rehabilitation is covered for members who have experienced heart attack (MI), coronary artery bypass surgery, stable angina, heart valve repair/replacement, or heart failure (EF < 35%)."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Phase II cardiac rehab: $30 copay per session. Maximum 36 sessions covered per cardiac event. Additional sessions up to 72 total available with documentation of continued medical necessity."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "Cardiac rehabilitation requires referral from cardiologist or cardiac surgeon with qualifying diagnosis. Preauthorization approved for initial 36 sessions. Additional sessions require documentation of compliance and functional progress."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-PT-003",
+    "name": "Chiropractic Care Coverage",
+    "category": "therapy",
+    "version": "2.5",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Eligibility",
+        "content": "Chiropractic care is covered for musculoskeletal conditions when medically necessary. Must be provided by a licensed chiropractor (DC) at an in-network facility."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Chiropractic visit: $30 copay per visit. Annual limit of 20 visits covered. Additional visits beyond 20 require preauthorization and are covered at 50% after deductible."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "First 20 visits per year do not require preauthorization. Visits beyond 20 require documented evidence of functional improvement and that further treatment is medically necessary."
+      },
+      {
+        "title": "Exclusions",
+        "content": "Chiropractic care for maintenance or wellness (not medically necessary acute/subacute conditions) is not covered. Nutritional supplements, homeopathic treatments, and non-musculoskeletal conditions are not covered."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-OON-001",
+    "name": "Out-of-Network Benefits (PPO)",
+    "category": "out_of_network",
+    "version": "3.0",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Coverage",
+        "content": "PPO members may receive care from out-of-network providers at reduced benefit levels. Out-of-network care is covered after separate out-of-network deductible is met. Plan pays 60% of allowed amount for out-of-network services."
+      },
+      {
+        "title": "Out-of-Network Deductible",
+        "content": "Out-of-network deductible: $3,000 individual / $6,000 family per calendar year. Out-of-network out-of-pocket maximum: $9,000 individual / $18,000 family. In-network payments do not count toward out-of-network deductible."
+      },
+      {
+        "title": "Allowed Amount",
+        "content": "Plan pays based on Medicare-based allowed amount or 110% of Medicare rate for out-of-network services. Member is responsible for difference between billed charge and allowed amount (balance billing) for non-emergency services."
+      },
+      {
+        "title": "No Surprises Act Protections",
+        "content": "Surprise billing protections apply to emergency services and certain non-emergency services at in-network facilities. Air ambulance out-of-network billing protections apply per federal law."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-OON-002",
+    "name": "No Surprises Act Compliance Policy",
+    "category": "out_of_network",
+    "version": "1.0",
+    "effective_date": "2022-01-01",
+    "sections": [
+      {
+        "title": "Emergency Services",
+        "content": "Emergency services from out-of-network providers covered at in-network cost-sharing rates. Members may not be balance billed for emergency care. Applies to emergency facilities and emergency medicine physicians, anesthesiologists, and radiologists."
+      },
+      {
+        "title": "Non-Emergency Surprise Billing",
+        "content": "Members receiving non-emergency care at in-network facilities may not be balance billed by out-of-network providers who were not chosen by the member (e.g., anesthesiologists, assistants). Good Faith Estimate required for scheduled services."
+      },
+      {
+        "title": "Independent Dispute Resolution",
+        "content": "When plan and out-of-network provider disagree on payment, either party may initiate Independent Dispute Resolution (IDR) process. IDR decision binding on both parties. Member cost-sharing not affected by IDR outcome."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-OON-003",
+    "name": "Emergency Out-of-Network Billing Policy",
+    "category": "out_of_network",
+    "version": "2.1",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Cost Sharing",
+        "content": "Emergency care received out-of-network is subject to in-network cost-sharing only. Member pays in-network emergency room copay of $350 plus applicable deductible. No additional out-of-network cost-sharing applies."
+      },
+      {
+        "title": "Post-Stabilization",
+        "content": "Once stabilized, plan may arrange transfer to in-network facility. If member declines transfer, out-of-network rates apply to post-stabilization care. Plan must notify member of available in-network alternatives."
+      },
+      {
+        "title": "Conflicting Policy Note",
+        "content": "This policy supersedes POL-OON-001 for emergency situations. Out-of-network emergency deductible does NOT apply per No Surprises Act. Only in-network deductible and cost-sharing apply to emergency out-of-network care."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-BILL-001",
+    "name": "Payer-Provider Contract: Facility Billing Rates",
+    "category": "billing_contract",
+    "version": "8.2",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Inpatient Rates",
+        "content": "Inpatient acute care reimbursement based on MS-DRG methodology at 145% of Medicare base rate. High-cost outlier payments triggered when costs exceed DRG rate by 150%. Carve-out rates apply for: transplant services, burn care, NICU (Level III/IV)."
+      },
+      {
+        "title": "Outpatient Rates",
+        "content": "Outpatient services reimbursed at 130% of Medicare APC rates. Bundled payment applies to: joint replacement (30-day episode), cardiac catheterization, colonoscopy. Professional fees billed separately at RVU-based rates."
+      },
+      {
+        "title": "Quality Incentives",
+        "content": "Value-based performance bonus: up to 5% of annual contract value based on HEDIS measures, readmission rates, patient satisfaction (HCAHPS), and appropriate utilization metrics. Bonus calculated quarterly."
+      },
+      {
+        "title": "Claims Submission",
+        "content": "Clean claims must be submitted within 180 days of date of service. Plan must pay clean claims within 30 days (electronic) or 45 days (paper). Interest of 1.5% per month applies to late payments."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-BILL-002",
+    "name": "Payer-Provider Contract: Physician Billing Rates",
+    "category": "billing_contract",
+    "version": "5.0",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Primary Care Rates",
+        "content": "Primary care evaluation and management (E&M) services reimbursed at 110% of Medicare Physician Fee Schedule (MPFS). Chronic care management (CCM): $62 per month for qualifying patients. Annual wellness visit: $175 per visit."
+      },
+      {
+        "title": "Specialist Rates",
+        "content": "Specialist E&M services: 115% of MPFS. Surgical procedures: 120% of MPFS global rate. Anesthesia: 100% of Medicare base units at $23 per unit. Pathology and radiology reads: 105% of MPFS."
+      },
+      {
+        "title": "Telehealth Rates",
+        "content": "Telehealth services reimbursed at 100% of in-person rate for audio-video visits. Audio-only telehealth: 85% of in-person rate. Remote Patient Monitoring (RPM): $50 setup fee plus $20 per month per enrolled patient."
+      },
+      {
+        "title": "Value-Based Arrangements",
+        "content": "Primary care providers participating in shared savings program receive per-member-per-month (PMPM) care management payment of $8. Shared savings distributed annually based on total cost of care and quality metrics."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-BILL-003",
+    "name": "Claims Adjudication and Denial Policy",
+    "category": "billing_contract",
+    "version": "4.1",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Clean Claim Definition",
+        "content": "A clean claim includes: valid member ID, valid provider NPI, date of service, place of service code, diagnosis codes (ICD-10-CM), procedure codes (CPT/HCPCS), billed amount, and signature on file attestation."
+      },
+      {
+        "title": "Denial Reasons",
+        "content": "Common denial reasons: (1) Lack of preauthorization, (2) Non-covered service, (3) Coordination of benefits (COB) issue, (4) Duplicate claim, (5) Timely filing exceeded, (6) Member not eligible on date of service, (7) Medical necessity not established."
+      },
+      {
+        "title": "Appeal Rights",
+        "content": "Providers may appeal claim denials within 180 days. First-level appeal: 30 days for decision. Second-level appeal to independent reviewer: 45 days. Expedited appeal for urgent care: 72 hours."
+      },
+      {
+        "title": "Recoupment",
+        "content": "Plan may recoup overpayments identified within 24 months of original payment. Recoupment notice provided 30 days in advance. Provider may contest recoupment through the appeals process."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-BILL-004",
+    "name": "Coordination of Benefits Policy",
+    "category": "billing_contract",
+    "version": "3.2",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Primary vs Secondary",
+        "content": "COB order determined by: (1) Subscriber's own plan is primary for subscriber, (2) Birthday rule for dependents when both parents have coverage, (3) Medicare Secondary Payer (MSP) rules apply when Medicare is involved."
+      },
+      {
+        "title": "Secondary Payment",
+        "content": "As secondary payer, plan pays the lesser of: (a) what it would pay if primary, or (b) the balance remaining after primary payment. Member cannot receive more than 100% of claim through combined benefits."
+      },
+      {
+        "title": "Medicare as Secondary Payer",
+        "content": "When member has group coverage as active employee and Medicare, group plan is primary. Employer groups of 20+ must offer active employees the same coverage as non-Medicare members. MSP violation penalties apply."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-DME-001",
+    "name": "Durable Medical Equipment Coverage",
+    "category": "lab",
+    "version": "2.6",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Coverage",
+        "content": "Durable medical equipment (DME) is covered when medically necessary and ordered by a treating physician. DME must be used primarily for medical purposes, able to withstand repeated use, and appropriate for home use."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "DME: 20% coinsurance after deductible. Rental vs purchase: Plan authorizes rental for equipment expected to be needed less than 13 months. For equipment needed longer, plan covers purchase. Capped rental at 13 months equals purchase."
+      },
+      {
+        "title": "Covered Equipment",
+        "content": "Covered DME includes: wheelchairs (manual/power), hospital beds, oxygen equipment, CPAP/BiPAP for documented sleep apnea, insulin pumps, blood pressure monitors, and hearing aids ($1,500 per ear every 3 years)."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "Power wheelchairs, hospital beds, oxygen equipment, CPAP/BiPAP, and prosthetics require preauthorization. Manual wheelchairs and standard DME under $500 do not require preauthorization."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-MAT-001",
+    "name": "Maternity and Newborn Care",
+    "category": "preventive",
+    "version": "3.4",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Prenatal Care",
+        "content": "Prenatal visits covered at $0 copay as preventive care for first prenatal appointment and routine prenatal visits. OB/GYN prenatal care: no referral required. Certified nurse midwife (CNM) prenatal care covered equivalent to OB."
+      },
+      {
+        "title": "Labor and Delivery",
+        "content": "Vaginal delivery: $500 inpatient copay. C-section: $500 inpatient copay (same as vaginal). Minimum hospital stay: 48 hours for vaginal delivery, 96 hours for C-section, per federal law. Early discharge covered if physician-approved."
+      },
+      {
+        "title": "Newborn Coverage",
+        "content": "Newborn covered under mother's policy for first 30 days. After 30 days, newborn must be enrolled as a dependent. Newborn screenings and hearing tests: $0 copay as preventive care. NICU coverage: $500 per admission copay."
+      },
+      {
+        "title": "Postpartum Care",
+        "content": "Postpartum visit: $0 copay within 12 weeks of delivery. Postpartum depression screening: $0 copay. Lactation counseling and breast pump: covered at $0 per ACA preventive care requirement."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-HOME-001",
+    "name": "Home Health Care Coverage",
+    "category": "therapy",
+    "version": "2.3",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Eligibility",
+        "content": "Home health care is covered for members who are homebound and require skilled nursing care, physical therapy, occupational therapy, speech therapy, or home health aide services on an intermittent basis."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Home health visits: $0 copay per visit when preauthorized. Home health aide: covered up to 8 hours per day, 5 days per week when skilled care is also being provided. Private duty nursing: requires separate authorization, $100/day copay."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "Home health care requires preauthorization. Initial authorization: 60 days. Continued care requires updated physician orders and documentation of ongoing medical necessity. Authorization renewed in 60-day increments."
+      },
+      {
+        "title": "Exclusions",
+        "content": "Custodial care (assistance with activities of daily living without skilled need) is not covered under home health benefit. 24-hour private duty nursing for convenience is not covered."
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-TELE-001",
+    "name": "Telehealth Services General Policy",
+    "category": "referral",
+    "version": "4.0",
+    "effective_date": "2024-01-01",
+    "sections": [
+      {
+        "title": "Covered Services",
+        "content": "Telehealth covers: primary care visits, mental health therapy, specialist consultations, dermatology (store-and-forward), chronic disease management, post-surgical follow-up, and urgent care for non-emergency conditions."
+      },
+      {
+        "title": "Cost Sharing",
+        "content": "Telehealth primary care: $25 copay (same as in-person). Telehealth urgent care: $75 copay (same as in-person urgent care). Telehealth specialist: $50 copay (same as in-person specialist). No facility fee for telehealth."
+      },
+      {
+        "title": "Technology Requirements",
+        "content": "Audio-video visits preferred. Audio-only visits covered when member lacks technology access or for conditions appropriate to audio-only assessment. Provider must be licensed in member's state. Out-of-state telehealth covered per interstate licensing compact."
+      },
+      {
+        "title": "Preauthorization",
+        "content": "No preauthorization required for telehealth primary care or urgent care. Telehealth specialist visits follow same preauthorization rules as in-person specialist visits."
+      }
+    ]
+  }
+]
